@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TALA</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- status_types-->
+    <string name="status_due">Due</string>
+    <string name="status_approved">Approved</string>
+    <string name="status_paid">Paid</string>
+
+    <!-- Header data detail -->
+    <string name="headerTitleApproved">Your application is approved!</string>
+    <string name="headerTitleApplyLoan">Apply for a loan</string>
+    <string name="headerTitlePaidOff">Your loan is fully paid</string>
+
+    <string name="headerSubTitleApproved">You have been approved for </string>
+    <string name="headerSubTitleLoan">Quality for loans up to  </string>
+    <string name="headerSubTitlePaidOff">Apply for another loan any time you want and grow your limit. </string>
+
+
+    <string name="headerBtnHeaderApproved">View loan offer </string>
+    <string name="headerBtnHeaderPaidOff">Apply Now</string>
+    <string name="headerBtnHeaderLoan">Apply Now</string>
+
+    <!-- Status card -->
+    <string name="status_title">My Tala Status</string>
+    <string name="status_subtitle_approved">Grow your limit up to </string>
+    <string name="status_subtitle_paidOff">Grow your limit up to </string>
+    <string name="status_subtitle_loan">Track your progress over time.</string>
+
+
+    <string name="status_btn">View Status</string>
+    
+    <!-- readme -->
+    <string name="readme_title">"Tala helped me with my dream"</string>
+    <string name="readme_subtitle">READ MORE</string>
+    
+    <!-- email -->
+    <string name="invite_friends">Invite friends, earn money!</string>
+    <string name="help">View FAQs or send us a message</string>
+
+</resources>
